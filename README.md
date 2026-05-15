@@ -53,4 +53,4 @@ If you are testing on a real device, ensure location permissions are granted whe
 Build and Run via Android Studio
 
 ---
-*Created by Rakshitha Jayashankar*
+*Created by Lokanath S*
